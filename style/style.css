@@ -23,7 +23,8 @@ body{
     justify-content: space-between;
 }
 .logo{
-    margin-left: 5px;
+    margin-top: 20px;
+ margin-left: 5px;
   color: #e50914;
   font-family: 'Alef', sans-serif;
   font-size: 40px;
